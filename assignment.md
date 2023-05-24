@@ -25,7 +25,7 @@ In this assignment, you will learn to use the developer's tool to inspect the el
 
 4. What is the css selector of the fourth element?
 ```
-block
+div:nth-child(6)
 ```
 
 5. What is the code you use to keep the blue box within the purple?
